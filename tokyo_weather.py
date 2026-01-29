@@ -1,5 +1,5 @@
 import requests 
- # This library lets your code talk to the internet
+ # This library lets our code talk to the internet
 
 def get_tokyo_weather():
     # We are using a free weather service
@@ -21,7 +21,7 @@ def get_tokyo_weather():
             print("Server is busy. Try again in a few minutes.")
             
     except Exception as e:
-        # This handles errors if your internet is disconnected
+        # This handles errors if our internet is disconnected
         print(f"Connection Error: {e}")
 
 # This line actually 'calls' the function to start the program
