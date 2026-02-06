@@ -7,6 +7,8 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * Tokyo Weather Tracker: API-integrated tool fetching real-time weather data from Japan.
 * Savings Predictor: A mathematical model ($y = mx + b$) using Linear Algebra to forecast relocation budgets.
 * Vocab Master: An automated Japanese N5 vocabulary quizzer using Python dictionaries and iteration.
+*Safe Budgeter: A robust budgeting tool using Try-Except blocks for error handling and data validation.
+* Goal Diary: A file-handling script that creates a persistent journey log using Python's I/O operations.
 
 ## 🛠️ Technical Skills Practiced
 * Languages: Python 3.x
