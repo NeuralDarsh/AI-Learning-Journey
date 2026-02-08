@@ -1,6 +1,6 @@
 # AI & ML Learning Journey: Path to Japan
 
-Welcome to my daily progress repository. I am a 2nd-year B.Tech student specializing in Artificial Intelligence and Machine Learning, with a long-term goal of living and working a quiet life in Japan.
+Welcome to my daily progress repository. I am a 2nd-year B.Tech student specializing in Artificial Intelligence and Machine Learning, with a long-term goal of working and living a quiet life in Japan.
 
 ## 🚀 Projects & Tools Built
 * Bilingual Roadmap: A Python script outlining my career path and N5 Japanese goals.
