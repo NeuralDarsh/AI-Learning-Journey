@@ -10,6 +10,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 *Safe Budgeter: A robust budgeting tool using Try-Except blocks for error handling and data validation.
 * Goal Diary: A file-handling script that creates a persistent journey log using Python's I/O operations.
 * Vocab Categorizer: A tool that uses logical clustering to separate Japanese words, practicing professional documentation standards.
+* Mantra Counter: A meditation tool practicing the logic of recursion (functions calling themselves), which is essential for AI tree algorithms.
 
 ## 🛠️ Technical Skills Practiced
 * Languages: Python 3.x
