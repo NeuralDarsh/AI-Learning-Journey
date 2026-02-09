@@ -17,6 +17,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * Tools: Git, GitHub Desktop, VS Code
 * Concepts: API Integration, Linear Regression (Linear Algebra), Data Structures (Dictionaries/Loops)
 * Language Learning: Japanese N5 (Beginner)
+* List Comprehensions
 
 ---
 *"Consistency is the bridge between goals and accomplishment."*
