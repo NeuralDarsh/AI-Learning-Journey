@@ -3,20 +3,21 @@
 Welcome to my daily progress repository. I am a 2nd-year B.Tech student specializing in Artificial Intelligence and Machine Learning, with a long-term goal of working and living a quiet life in Japan.
 
 ## 🚀 Projects & Tools Built
-* Bilingual Roadmap: A Python script outlining my career path and N5 Japanese goals.
-* Tokyo Weather Tracker: API-integrated tool fetching real-time weather data from Japan.
-* Savings Predictor: A mathematical model ($y = mx + b$) using Linear Algebra to forecast relocation budgets.
-* Vocab Master: An automated Japanese N5 vocabulary quizzer using Python dictionaries and iteration.
-*Safe Budgeter: A robust budgeting tool using Try-Except blocks for error handling and data validation.
-* Goal Diary: A file-handling script that creates a persistent journey log using Python's I/O operations.
-* Vocab Categorizer: A tool that uses logical clustering to separate Japanese words, practicing professional documentation standards.
-* Mantra Counter: A meditation tool practicing the logic of recursion (functions calling themselves), which is essential for AI tree algorithms.
+* **Bilingual Roadmap:** A Python script outlining my career path and N5 Japanese goals.
+* **Tokyo Weather Tracker:** API-integrated tool fetching real-time weather data from Japan.
+* **Savings Predictor:** A mathematical model ($y = mx + b$) using Linear Algebra to forecast relocation budgets.
+* **Vocab Master:** An automated Japanese N5 vocabulary quizzer using Python dictionaries and iteration.
+* **Safe Budgeter:** A robust budgeting tool using Try-Except blocks for error handling and data validation.
+* **Goal Diary:** A file-handling script that creates a persistent journey log using Python's I/O operations.
+* **Vocab Categorizer:** A tool that uses logical clustering to separate Japanese words, practicing professional documentation standards.
+* **Mantra Counter:** A meditation tool practicing the logic of recursion (functions calling themselves), which is essential for AI tree algorithms.
+* **Tokyo Time Sync:** A tool to calculate time differences, practicing Python's datetime module and timezone logic.
 
 ## 🛠️ Technical Skills Practiced
-* Languages: Python 3.x
-* Tools: Git, GitHub Desktop, VS Code
-* Concepts: API Integration, Linear Regression (Linear Algebra), Data Structures (Dictionaries/Loops)
-* Language Learning: Japanese N5 (Beginner)
+* **Languages:** Python 3.x
+* **Tools:** Git, GitHub Desktop, VS Code
+* **Concepts:** API Integration, Linear Regression (Linear Algebra), Data Structures (Dictionaries/Loops)
+* **Language Learning:** Japanese N5 (Beginner)
 * List Comprehensions
 
 ---
