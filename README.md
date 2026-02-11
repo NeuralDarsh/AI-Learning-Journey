@@ -12,6 +12,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Vocab Categorizer:** A tool that uses logical clustering to separate Japanese words, practicing professional documentation standards.
 * **Mantra Counter:** A meditation tool practicing the logic of recursion (functions calling themselves), which is essential for AI tree algorithms.
 * **Tokyo Time Sync:** A tool to calculate time differences, practicing Python's datetime module and timezone logic.
+* **Job Data Filter:** A script that mimics ML data preprocessing by filtering candidates based on specific technical and language criteria
 
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
