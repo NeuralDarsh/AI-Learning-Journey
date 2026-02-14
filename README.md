@@ -14,6 +14,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Tokyo Time Sync:** A tool to calculate time differences, practicing Python's datetime module and timezone logic.
 * **Job Data Filter:** A script that mimics ML data preprocessing by filtering candidates based on specific technical and language criteria
 * **Log Verifier:** A system-check tool using the 'os' module to validate file paths and handle metadata like file size.
+* **Kanji Decoder:** A lookup tool utilizing Python dictionaries to map Japanese characters to meanings, practicing key-value data structures.
 
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
