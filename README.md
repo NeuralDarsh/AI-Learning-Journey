@@ -16,6 +16,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Log Verifier:** A system-check tool using the 'os' module to validate file paths and handle metadata like file size.
 * **Kanji Decoder:** A lookup tool utilizing Python dictionaries to map Japanese characters to meanings, practicing key-value data structures.
 * **Tokyo Recommender:** A small recommendation engine using nested dictionaries to practice complex data retrieval and conditional logic.
+* **Expense Aggregator:** A tool practicing the use of '*args' for creating flexible functions capable of handling variable data inputs.
 
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
