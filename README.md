@@ -17,6 +17,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Kanji Decoder:** A lookup tool utilizing Python dictionaries to map Japanese characters to meanings, practicing key-value data structures.
 * **Tokyo Recommender:** A small recommendation engine using nested dictionaries to practice complex data retrieval and conditional logic.
 * **Expense Aggregator:** A tool practicing the use of '*args' for creating flexible functions capable of handling variable data inputs.
+* **Uni Profile Builder:** A tool practicing '**kwargs' to handle named variable arguments, essential for configuring AI model parameters.
 
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
