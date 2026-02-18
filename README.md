@@ -18,6 +18,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Tokyo Recommender:** A small recommendation engine using nested dictionaries to practice complex data retrieval and conditional logic.
 * **Expense Aggregator:** A tool practicing the use of '*args' for creating flexible functions capable of handling variable data inputs.
 * **Uni Profile Builder:** A tool practicing '**kwargs' to handle named variable arguments, essential for configuring AI model parameters.
+* **Japan City Ranker:** A data-sorting tool using Lambda keys to organize complex tuple structures, essential for AI ranking algorithms.
 
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
