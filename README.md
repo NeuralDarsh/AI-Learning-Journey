@@ -22,7 +22,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Skills De-duplicator:** A utility using Python Sets to extract unique features from datasets, a common step in AI data preprocessing
 * **Priority Task Selector:** Implements weighted probability logic to mathematically prioritize AI/ML training and N5 Japanese study goals.
 
-* 
+  
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
 * **Tools:** Git, GitHub Desktop, VS Code
