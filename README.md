@@ -20,7 +20,9 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Uni Profile Builder:** A tool practicing '**kwargs' to handle named variable arguments, essential for configuring AI model parameters.
 * **Japan City Ranker:** A data-sorting tool using Lambda keys to organize complex tuple structures, essential for AI ranking algorithms.
 * **Skills De-duplicator:** A utility using Python Sets to extract unique features from datasets, a common step in AI data preprocessing
+* **Priority Task Selector:** Implements weighted probability logic to mathematically prioritize AI/ML training and N5 Japanese study goals.
 
+* 
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
 * **Tools:** Git, GitHub Desktop, VS Code
