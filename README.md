@@ -21,6 +21,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Japan City Ranker:** A data-sorting tool using Lambda keys to organize complex tuple structures, essential for AI ranking algorithms.
 * **Skills De-duplicator:** A utility using Python Sets to extract unique features from datasets, a common step in AI data preprocessing
 * **Priority Task Selector:** Implements weighted probability logic to mathematically prioritize AI/ML training and N5 Japanese study goals.
+* **Digit Classifier:** Transitioned from ML basics to Deep Learning with a TensorFlow Digit Classifier.
 
   
 ## 🛠️ Technical Skills Practiced
