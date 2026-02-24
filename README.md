@@ -23,7 +23,8 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Priority Task Selector:** Implements weighted probability logic to mathematically prioritize AI/ML training and N5 Japanese study goals.
 * **Digit Classifier:** Transitioned from ML basics to Deep Learning with a TensorFlow Digit Classifier.
 * **Currency Converter:** A Python script to convert values between USD, EUR, GBP, INR, and JPY.
-* **Desktop Notifier:** A script that triggers system notifications for reminders using the plyer library. 
+* **Desktop Notifier:** A script that triggers system notifications for reminders using the plyer library.
+* **Website Status Checker:** A tool to verify website availability and HTTP status codes using the requests library. 
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
