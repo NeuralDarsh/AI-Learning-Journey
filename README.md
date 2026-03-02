@@ -25,7 +25,8 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Currency Converter:** A Python script to convert values between USD, EUR, GBP, INR, and JPY.
 * **Desktop Notifier:** A script that triggers system notifications for reminders using the plyer library.
 * **Website Status Checker:** A tool to verify website availability and HTTP status codes using the requests library.
-* **Spider-Man Trivia Quiz:** An interactive command-line quiz game exploring dictionary-based logic and user input handling. 
+* **Spider-Man Trivia Quiz:** An interactive command-line quiz game exploring dictionary-based logic and user input handling.
+* **NATO Alphabet Converter:** A script using list comprehension to convert user input into phonetic code.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
