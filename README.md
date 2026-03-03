@@ -27,6 +27,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Website Status Checker:** A tool to verify website availability and HTTP status codes using the requests library.
 * **Spider-Man Trivia Quiz:** An interactive command-line quiz game exploring dictionary-based logic and user input handling.
 * **NATO Alphabet Converter:** A script using list comprehension to convert user input into phonetic code.
+* **Miles to Km GUI:** My first GUI application using Tkinter, featuring labels, entries, and button commands.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
