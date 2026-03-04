@@ -28,6 +28,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Spider-Man Trivia Quiz:** An interactive command-line quiz game exploring dictionary-based logic and user input handling.
 * **NATO Alphabet Converter:** A script using list comprehension to convert user input into phonetic code.
 * **Miles to Km GUI:** My first GUI application using Tkinter, featuring labels, entries, and button commands.
+* **Hina Matsuri Organizer:** An OOP-based script using Python classes to celebrate the Japanese Doll Festival.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
