@@ -31,6 +31,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Hina Matsuri Organizer:** An OOP-based script using Python classes to celebrate the Japanese Doll Festival.
 * **Holi Color Safety Tool:** A script that generates random colors and calculates brightness levels for UI accessibility.
 * **Japanese Vocab Logger:** Introduction to File Handling (I/O) to save and retrieve Japanese study notes.
+* **Matrix Transposer:** A mathematical script that flips matrices, demonstrating list comprehension and Linear Algebra basics.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
