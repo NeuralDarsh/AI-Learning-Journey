@@ -32,6 +32,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Holi Color Safety Tool:** A script that generates random colors and calculates brightness levels for UI accessibility.
 * **Japanese Vocab Logger:** Introduction to File Handling (I/O) to save and retrieve Japanese study notes.
 * **Matrix Transposer:** A mathematical script that flips matrices, demonstrating list comprehension and Linear Algebra basics.
+* **IoT Sensor Monitor:** A simulation of IoT data monitoring that logs temperature alerts to an external file.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
