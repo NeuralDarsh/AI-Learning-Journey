@@ -35,6 +35,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **IoT Sensor Monitor:** A simulation of IoT data monitoring that logs temperature alerts to an external file.
 * **Career Keyword Scraper:** A script that simulates AI-based profile filtering for specific career keywords and skills.
 * **SQLite3 Database Manager:** My first step into RDBMS using Python to create and query a local SQL database.
+* **Stack (LIFO) Simulation:** Implementation of a Stack data structure to simulate browser history using Python lists.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
