@@ -36,7 +36,8 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Career Keyword Scraper:** A script that simulates AI-based profile filtering for specific career keywords and skills.
 * **SQLite3 Database Manager:** My first step into RDBMS using Python to create and query a local SQL database.
 * **Stack (LIFO) Simulation:** Implementation of a Stack data structure to simulate browser history using Python lists.
-* **Statistical Data Analyzer:** A script calculating Mean, Median, and Mode to practice Applied Statistics logic in Python. 
+* **Statistical Data Analyzer:** A script calculating Mean, Median, and Mode to practice Applied Statistics logic in Python.
+* **RDBMS Relationship Sim:** A Python script practicing SQL Foreign Keys and Table Joins to strengthen RDBMS concepts.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
