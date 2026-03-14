@@ -38,6 +38,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Stack (LIFO) Simulation:** Implementation of a Stack data structure to simulate browser history using Python lists.
 * **Statistical Data Analyzer:** A script calculating Mean, Median, and Mode to practice Applied Statistics logic in Python.
 * **RDBMS Relationship Sim:** A Python script practicing SQL Foreign Keys and Table Joins to strengthen RDBMS concepts.
+* **Local Port Scanner:** A networking script using the socket library to check for open TCP ports on a host. 
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
