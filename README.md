@@ -42,6 +42,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Pi Day Physics Calc:** A physics utility script using the math.pi constant to calculate circular motion properties.
 * **Regex Pattern Scanner:** A text-mining script using Regular Expressions to extract emails and phone numbers from text.
 * **Japanese Flashcard Tool:** A study tool using dictionary-based logic to practice Hiragana characters for the N5 exam.
+* **DNS to IP Resolver:** A networking script using the socket library to resolve hostnames into IP addresses.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
