@@ -43,6 +43,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Regex Pattern Scanner:** A text-mining script using Regular Expressions to extract emails and phone numbers from text.
 * **Japanese Flashcard Tool:** A study tool using dictionary-based logic to practice Hiragana characters for the N5 exam.
 * **DNS to IP Resolver:** A networking script using the socket library to resolve hostnames into IP addresses.
+* **Correlation Calculator:** A statistical script implementing the Pearson Correlation formula to find relationships in data.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
