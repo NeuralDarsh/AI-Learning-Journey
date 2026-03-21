@@ -1,3 +1,5 @@
+[English](./README.md) | [日本語](./README.ja.md)
+
 # AI & ML Learning Journey: Path to Japan
 
 Welcome to my daily progress repository. I am a 2nd-year B.Tech student specializing in Artificial Intelligence and Machine Learning, with a long-term goal of working and living a quiet life in Japan.
