@@ -45,6 +45,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **DNS to IP Resolver:** A networking script using the socket library to resolve hostnames into IP addresses.
 * **Correlation Calculator:** A statistical script implementing the Pearson Correlation formula to find relationships in data.
 * **Database to CSV Exporter:** A utility script that fetches SQL records and saves them as CSV files for data portability.
+* **Linear Search Visualizer:** A step-by-step visualization of the Linear Search algorithm to practice Data Structures logic.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
