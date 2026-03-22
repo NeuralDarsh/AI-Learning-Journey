@@ -1,3 +1,5 @@
+[English](./README.md) | [日本語](./README.ja.md)
+
 # AI & ML Learning Journey: Path to Japan
 
 Welcome to my daily progress repository. I am a 2nd-year B.Tech student specializing in Artificial Intelligence and Machine Learning, with a long-term goal of working and living a quiet life in Japan.
@@ -46,6 +48,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Correlation Calculator:** A statistical script implementing the Pearson Correlation formula to find relationships in data.
 * **Database to CSV Exporter:** A utility script that fetches SQL records and saves them as CSV files for data portability.
 * **Linear Search Visualizer:** A step-by-step visualization of the Linear Search algorithm to practice Data Structures logic.
+* **Moving Average Calc:** A data-processing script that smooths out "noise" in datasets using a sliding window average.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
