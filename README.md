@@ -49,6 +49,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Database to CSV Exporter:** A utility script that fetches SQL records and saves them as CSV files for data portability.
 * **Linear Search Visualizer:** A step-by-step visualization of the Linear Search algorithm to practice Data Structures logic.
 * **Moving Average Calc:** A data-processing script that smooths out "noise" in datasets using a sliding window average.
+* **DB Transaction Sim:** A script practicing SQL Transactions (Commit/Rollback) to maintain data integrity in RDBMS.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
