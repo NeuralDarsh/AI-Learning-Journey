@@ -50,6 +50,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Linear Search Visualizer:** A step-by-step visualization of the Linear Search algorithm to practice Data Structures logic.
 * **Moving Average Calc:** A data-processing script that smooths out "noise" in datasets using a sliding window average.
 * **DB Transaction Sim:** A script practicing SQL Transactions (Commit/Rollback) to maintain data integrity in RDBMS.
+* **IoT Network Checker:** A networking script that pings URLs and logs HTTP status codes and response times to a file.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
