@@ -53,6 +53,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **IoT Network Checker:** A networking script that pings URLs and logs HTTP status codes and response times to a file.
 * **Queue (FIFO) Simulation:** Implementation of a Queue data structure using Python lists to practice fundamental Data Structure logic.
 * **Milestone Tracker:** A special OOP-based project to celebrate 50 days of coding and track my journey to Japan.
+* **NumPy Array Basics:** Starting the AI library phase. Implemented fast numerical arrays and matrix operations using NumPy.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
