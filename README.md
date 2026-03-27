@@ -54,6 +54,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Queue (FIFO) Simulation:** Implementation of a Queue data structure using Python lists to practice fundamental Data Structure logic.
 * **Milestone Tracker:** A special OOP-based project to celebrate 50 days of coding and track my journey to Japan.
 * **NumPy Array Basics:** Starting the AI library phase. Implemented fast numerical arrays and matrix operations using NumPy.
+* **Linear Equation Solver:** Using NumPy's linalg module to solve matrix-based linear equations for 4th-sem math.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
