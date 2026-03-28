@@ -55,6 +55,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Milestone Tracker:** A special OOP-based project to celebrate 50 days of coding and track my journey to Japan.
 * **NumPy Array Basics:** Starting the AI library phase. Implemented fast numerical arrays and matrix operations using NumPy.
 * **Linear Equation Solver:** Using NumPy's linalg module to solve matrix-based linear equations for 4th-sem math.
+* **NumPy Stats Analyzer:** Using NumPy to calculate Variance and Standard Deviation for Applied Statistics practice.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
