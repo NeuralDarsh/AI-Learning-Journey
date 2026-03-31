@@ -57,6 +57,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Linear Equation Solver:** Using NumPy's linalg module to solve matrix-based linear equations for 4th-sem math.
 * **NumPy Stats Analyzer:** Using NumPy to calculate Variance and Standard Deviation for Applied Statistics practice.
 * **Matrix Multiplication:** Practicing the "Dot Product" logic using NumPy to bridge Linear Algebra and AI concepts.
+* **Profile Link Shortener:** A dictionary-based script to manage and "shorten" professional social media links.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
