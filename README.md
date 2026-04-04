@@ -60,6 +60,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Profile Link Shortener:** A dictionary-based script to manage and "shorten" professional social media links.
 * **IoT Sensor Simulator:** A script simulating real-time sensor readings and threshold alerts for IoT device management.
 * **N5 Word Randomizer:** A vocabulary tool using Python's random library to practice Japanese N5 words daily.
+* **Circular Queue Sim:** An advanced queue implementation using modulo arithmetic to optimize memory usage.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
