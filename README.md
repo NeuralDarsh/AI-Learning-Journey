@@ -62,6 +62,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **N5 Word Randomizer:** A vocabulary tool using Python's random library to practice Japanese N5 words daily.
 * **Circular Queue Sim:** An advanced queue implementation using modulo arithmetic to optimize memory usage.
 * **Streak Analyzer:** A milestone project that analyzes daily commit patterns to track consistency and productivity.
+* **PCA Dimension Reduction:** A script using NumPy to calculate Eigenvalues and Eigenvectors for data simplification in AI.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
