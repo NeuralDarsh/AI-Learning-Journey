@@ -63,6 +63,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Circular Queue Sim:** An advanced queue implementation using modulo arithmetic to optimize memory usage.
 * **Streak Analyzer:** A milestone project that analyzes daily commit patterns to track consistency and productivity.
 * **PCA Dimension Reduction:** A script using NumPy to calculate Eigenvalues and Eigenvectors for data simplification in AI.
+* **Database Schema Inspector:** Extracts metadata and column constraints using Python.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
