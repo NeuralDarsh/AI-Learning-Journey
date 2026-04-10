@@ -65,6 +65,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **PCA Dimension Reduction:** A script using NumPy to calculate Eigenvalues and Eigenvectors for data simplification in AI.
 * **Database Schema Inspector:** Extracts metadata and column constraints using Python.
 * **Z-Score Outlier Detector:** A statistical tool using NumPy to identify outliers in a dataset. It calculates the Z-Score for each data point based on the Mean and Standard Deviation to detect anomalies in data distributions.
+* **Japan Travel Budgeter:** A Python tool converting INR to JPY with travel expense logic for Japan trip planning.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
