@@ -67,6 +67,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Z-Score Outlier Detector:** A statistical tool using NumPy to identify outliers in a dataset. It calculates the Z-Score for each data point based on the Mean and Standard Deviation to detect anomalies in data distributions.
 * **Japan Travel Budgeter:** A Python tool converting INR to JPY with travel expense logic for Japan trip planning.
 * **TCP Port Scanner:** A networking tool using Python sockets to identify open ports and service availability on a target host.
+* **LinkedIn Tag Generator:** A script that generates bilingual hashtags to optimize professional post reach for Japan-based recruiters.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
