@@ -68,6 +68,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Japan Travel Budgeter:** A Python tool converting INR to JPY with travel expense logic for Japan trip planning.
 * **TCP Port Scanner:** A networking tool using Python sockets to identify open ports and service availability on a target host.
 * **LinkedIn Tag Generator:** A script that generates bilingual hashtags to optimize professional post reach for Japan-based recruiters.
+* **Japan Address Validator:** A Python tool using Regex to validate Japanese postal codes and identify major IT hub prefectures.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
