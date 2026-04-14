@@ -69,6 +69,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **TCP Port Scanner:** A networking tool using Python sockets to identify open ports and service availability on a target host.
 * **LinkedIn Tag Generator:** A script that generates bilingual hashtags to optimize professional post reach for Japan-based recruiters.
 * **Japan Address Validator:** A Python tool using Regex to validate Japanese postal codes and identify major IT hub prefectures.
+* **Smart File Organizer:** A Python automation script that categorizes and moves files into designated sub-folders based on their extensions.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
