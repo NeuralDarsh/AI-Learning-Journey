@@ -71,6 +71,8 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Japan Address Validator:** A Python tool using Regex to validate Japanese postal codes and identify major IT hub prefectures.
 * **Smart File Organizer:** A Python automation script that categorizes and moves files into designated sub-folders based on their extensions.
 * **Matrix Transpose Calculator:** A NumPy-based tool to perform matrix transpositions and validate symmetry properties for Linear Algebra.
+* **Profile Analytics Simulator:** A script using NumPy to calculate moving averages and analyze growth trends in social media profile views.
+* **IoT Heartbeat Monitor:** A real-time Python script that tracks device connectivity and triggers alerts based on heartbeat timeouts.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
