@@ -74,6 +74,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Profile Analytics Simulator:** A script using NumPy to calculate moving averages and analyze growth trends in social media profile views.
 * **IoT Heartbeat Monitor:** A real-time Python script that tracks device connectivity and triggers alerts based on heartbeat timeouts.
 * **Markdown Table Generator:** A Python script that automates the formatting of bilingual GitHub README tables for daily project tracking.
+* **IoT Data Logger:** A Python script that simulates sensor readings and saves timestamped data to a persistent text file for historical analysis.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
