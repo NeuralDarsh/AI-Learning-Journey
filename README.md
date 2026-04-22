@@ -76,6 +76,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Markdown Table Generator:** A Python script that automates the formatting of bilingual GitHub README tables for daily project tracking.
 * **IoT Data Logger:** A Python script that simulates sensor readings and saves timestamped data to a persistent text file for historical analysis.
 * **Engagement Ratio Calculator:** A Python tool to calculate LinkedIn post performance and interaction metrics for professional branding.
+* **IoT Range Mapper:** A Python utility that uses linear interpolation to scale raw sensor data into meaningful units like percentage and voltage.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
