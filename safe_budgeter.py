@@ -1,4 +1,3 @@
-# Day 10: The Safe Japan Budgeter
 # Concept: Error Handling (Try-Except blocks)
 
 def calculate_budget():

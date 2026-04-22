@@ -1,4 +1,3 @@
-# Day 6: Japan Habit Tracker
 # Concept: Lists and User Validation
 
 def track_habits():
