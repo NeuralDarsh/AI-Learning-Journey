@@ -79,6 +79,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **IoT Range Mapper:** A Python utility that uses linear interpolation to scale raw sensor data into meaningful units like percentage and voltage.
 * **README Badge Generator:** A Python script that generates custom Markdown badges to enhance GitHub profile and repository documentation.
 * **Matrix Identity Checker:** A NumPy-based tool to generate identity matrices and validate diagonal properties for Linear Algebra studies.
+* **Katakana Flashcard Tool:** A Python-based learning utility to practice Katakana-to-Romaji conversion for IT-related Japanese vocabulary.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
