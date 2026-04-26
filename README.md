@@ -80,6 +80,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **README Badge Generator:** A Python script that generates custom Markdown badges to enhance GitHub profile and repository documentation.
 * **Matrix Identity Checker:** A NumPy-based tool to generate identity matrices and validate diagonal properties for Linear Algebra studies.
 * **Katakana Flashcard Tool:** A Python-based learning utility to practice Katakana-to-Romaji conversion for IT-related Japanese vocabulary.
+* **IoT Threshold Alert System:** A Python monitoring script that simulates real-time sensor data and triggers alerts based on configurable temperature thresholds.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
