@@ -83,6 +83,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **IoT Threshold Alert System:** A Python monitoring script that simulates real-time sensor data and triggers alerts based on configurable temperature thresholds.
 * **Matrix Determinant Calculator:** A NumPy-based tool to calculate determinants and verify matrix invertibility for Linear Algebra.
 * **LinkedIn Headline Optimizer:** A Python tool that generates professionally formatted headlines for LinkedIn based on skills and career goals.
+* **Humidity Controller:** A Python IoT simulation implementing hysteresis logic to manage device states based on humidity thresholds.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
