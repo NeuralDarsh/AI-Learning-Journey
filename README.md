@@ -84,6 +84,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Matrix Determinant Calculator:** A NumPy-based tool to calculate determinants and verify matrix invertibility for Linear Algebra.
 * **LinkedIn Headline Optimizer:** A Python tool that generates professionally formatted headlines for LinkedIn based on skills and career goals.
 * **Humidity Controller:** A Python IoT simulation implementing hysteresis logic to manage device states based on humidity thresholds.
+* **Matrix Rank Checker:** A NumPy-based tool to calculate the rank of a matrix and verify linear independence for academic and AI applications.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
