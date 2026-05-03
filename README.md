@@ -87,6 +87,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Matrix Rank Checker:** A NumPy-based tool to calculate the rank of a matrix and verify linear independence for academic and AI applications.
 * **Job Keyword Matcher:** A Python tool using Set operations to analyze skill gaps between a user's profile and Japanese IT job descriptions.
 * **IoT Data Normalizer:** A Python utility using NumPy to perform Min-Max scaling on sensor data, a key step in AI/ML data preprocessing.
+* **LinkedIn Content Scheduler:** A Python-based scheduling simulator that manages a content queue based on daily time-triggers for professional branding.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
