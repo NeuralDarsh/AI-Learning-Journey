@@ -89,6 +89,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **IoT Data Normalizer:** A Python utility using NumPy to perform Min-Max scaling on sensor data, a key step in AI/ML data preprocessing.
 * **LinkedIn Content Scheduler:** A Python-based scheduling simulator that manages a content queue based on daily time-triggers for professional branding.
 * **IoT Uptime Calculator:** A Python script that calculates device reliability percentages and uptime duration for industrial IoT monitoring.
+* **Network Growth Projector:** A Python tool that uses current growth rates to forecast when professional networking milestones will be reached.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
