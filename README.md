@@ -91,6 +91,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **IoT Uptime Calculator:** A Python script that calculates device reliability percentages and uptime duration for industrial IoT monitoring.
 * **Network Growth Projector:** A Python tool that uses current growth rates to forecast when professional networking milestones will be reached.
 * **Business Card Formatter:** A Python tool that formats professional contact information into a traditional Japanese Meishi layout using string alignment.
+* **Japanese SRS Logic:** A Python tool that uses feedback loops to manage Japanese vocabulary learning and review sessions.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
