@@ -93,6 +93,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Business Card Formatter:** A Python tool that formats professional contact information into a traditional Japanese Meishi layout using string alignment.
 * **Japanese SRS Logic:** A Python tool that uses feedback loops to manage Japanese vocabulary learning and review sessions.
 * **Sensor Calibration Tool:** A Python script that applies error offsets to raw IoT sensor data to ensure accuracy before processing.
+* **Commit Message Formatter:** A Python tool to generate standardized Git commit messages, ensuring professional documentation standards.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
