@@ -94,6 +94,8 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Japanese SRS Logic:** A Python tool that uses feedback loops to manage Japanese vocabulary learning and review sessions.
 * **Sensor Calibration Tool:** A Python script that applies error offsets to raw IoT sensor data to ensure accuracy before processing.
 * **Commit Message Formatter:** A Python tool to generate standardized Git commit messages, ensuring professional documentation standards.
+* **Salary Converter:** A Python financial tool that converts Japanese monthly/annual salaries (JPY) to INR to help plan software engineering career goals in Japan.
+* **Iot Heartbeat Gateaway:** An IoT simulator that mimics a Gateway's "Heartbeat" signal. Practiced Python's time and datetime modules to create a status monitoring system for networked devices.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
