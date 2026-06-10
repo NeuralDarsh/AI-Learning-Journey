@@ -96,6 +96,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Commit Message Formatter:** A Python tool to generate standardized Git commit messages, ensuring professional documentation standards.
 * **Salary Converter:** A Python financial tool that converts Japanese monthly/annual salaries (JPY) to INR to help plan software engineering career goals in Japan.
 * **Iot Heartbeat Gateaway:** An IoT simulator that mimics a Gateway's "Heartbeat" signal. Practiced Python's time and datetime modules to create a status monitoring system for networked devices.
+* **Sentiment Analyzer:** A Python-based rule-based sentiment analysis utility that parses Japanese text strings to evaluate emotional polarity using basic NLP dictionary matching.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
