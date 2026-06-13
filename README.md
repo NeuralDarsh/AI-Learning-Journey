@@ -97,6 +97,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Salary Converter:** A Python financial tool that converts Japanese monthly/annual salaries (JPY) to INR to help plan software engineering career goals in Japan.
 * **Iot Heartbeat Gateaway:** An IoT simulator that mimics a Gateway's "Heartbeat" signal. Practiced Python's time and datetime modules to create a status monitoring system for networked devices.
 * **Sentiment Analyzer:** A Python-based rule-based sentiment analysis utility that parses Japanese text strings to evaluate emotional polarity using basic NLP dictionary matching.
+* **Matrix Orthogonality:** A NumPy-based tool to calculate the transpose of a matrix and check for orthogonality to verify linear algebra system properties.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
