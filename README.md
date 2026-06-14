@@ -98,6 +98,7 @@ Welcome to my daily progress repository. I am a 2nd-year B.Tech student speciali
 * **Iot Heartbeat Gateaway:** An IoT simulator that mimics a Gateway's "Heartbeat" signal. Practiced Python's time and datetime modules to create a status monitoring system for networked devices.
 * **Sentiment Analyzer:** A Python-based rule-based sentiment analysis utility that parses Japanese text strings to evaluate emotional polarity using basic NLP dictionary matching.
 * **Matrix Orthogonality:** A NumPy-based tool to calculate the transpose of a matrix and check for orthogonality to verify linear algebra system properties.
+* **Anomaly Detection:**An IoT data cleaning utility in Python that scans sensor streams to isolate and flag extreme statistical anomalies and outliers.
   
 ## 🛠️ Technical Skills Practiced
 * **Languages:** Python 3.x
